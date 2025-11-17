@@ -1,0 +1,47 @@
+## Week 1: Foundations (Days 1-7)
+
+### Day 1: Setup & Hello World
+- Install Visual Studio Community or VS Code with C# extension
+- Create your first console application
+- Understand basic program structure (namespace, class, Main method)
+- *Practice:* Write 5 different "Hello World" variations with different messages
+
+### Day 2: Variables & Data Types
+- Learn primitive types (int, double, float, bool, char, string)
+- Variable declaration and initialization
+- Type conversion and casting
+- *Practice:* Create a program that converts temperature (Celsius to Fahrenheit)
+
+### Day 3: Operators & Expressions
+- Arithmetic operators (+, -, *, /, %)
+- Comparison operators (==, !=, <, >, <=, >=)
+- Logical operators (&&, ||, !)
+- *Practice:* Build a simple calculator (add, subtract, multiply, divide)
+
+### Day 4: Control Flow - Conditionals
+- if, else if, else statements
+- switch statements
+- Ternary operator
+- *Practice:* Create a grade calculator (input score, output letter grade)
+
+### Day 5: Loops
+- for loops
+- while loops
+- do-while loops
+- break and continue
+- *Practice:* Create a multiplication table generator
+
+### Day 6: Arrays
+- Declaring and initializing arrays
+- Accessing array elements
+- Array methods (Length, Sort, Reverse)
+- Multi-dimensional arrays
+- *Practice:* Store and display student grades, find average
+
+### Day 7: Review & Mini Project
+- Review everything from Week 1
+- *Project:* Build a simple number guessing game
+  - Generate random number
+  - Take user input
+  - Give hints (higher/lower)
+  - Count attempts

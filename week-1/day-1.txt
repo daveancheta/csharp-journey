@@ -1,5 +1,0 @@
-### Day 1: Setup & Hello World
-- Install Visual Studio Community or VS Code with C# extension
-- Create your first console application
-- Understand basic program structure (namespace, class, Main method)
-- *Practice:* Write 5 different "Hello World" variations with different messages
